@@ -6,7 +6,7 @@ the dollar impact of model decisions, and ships as an interactive Streamlit
 app that gives applicants a loan offer while keeping a separate internal risk
 view for lending managers.
 
-**Live demo:** _[ Streamlit link ]_
+**Live demo:** _[ [Streamlit link](https://creditassessment.streamlit.app/) ]_
 
 ---
 
